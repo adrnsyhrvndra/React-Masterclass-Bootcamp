@@ -1,0 +1,10 @@
+1.Buka terminal atau command prompt pada komputer Anda.
+2.Pindah ke direktori proyek pertama dengan menggunakan perintah cd.
+3.Jalankan server lokal proyek pertama dengan menjalankan perintah npm start atau yarn start.
+4.Buka tab baru pada terminal atau command prompt.
+5.Pindah ke direktori proyek kedua dengan menggunakan perintah cd.
+6.Buka file package.json pada proyek kedua menggunakan editor teks.
+7.Temukan bagian "start": "react-scripts start".
+8.Tambahkan opsi PORT setelah "start": "react-scripts start", contohnya "start": "set PORT=3001 && react-scripts start".
+9.Simpan perubahan pada file package.json.
+10.Kembali ke terminal atau command prompt dan jalankan server lokal proyek kedua dengan perintah npm start atau yarn start.

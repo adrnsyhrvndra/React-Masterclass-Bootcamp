@@ -1,0 +1,30 @@
+{
+  "products": [
+
+    { 
+      
+      "id": 1, 
+      "name": "React JS", 
+      "price": 59,
+      "in_stock": true
+    
+    },
+    { 
+      
+      "id": 2, 
+      "name": "Node JS", 
+      "price": 99,
+      "in_stock": true
+    
+    },
+    { 
+      
+      "id": 3, 
+      "name": "Next JS", 
+      "price": 50,
+      "in_stock": false
+    
+    }
+
+  ]
+}
