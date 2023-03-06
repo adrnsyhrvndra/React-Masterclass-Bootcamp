@@ -1,0 +1,1 @@
+json-server data/db.json -m ./node_modules/json-server-auth -r data/routes.json --port=8080
